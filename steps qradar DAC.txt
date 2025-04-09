@@ -1,0 +1,19 @@
+to integrate github actions , making a token and repository in github first as a DAC and repo called QR scripts
+
+authenticate the github token first
+then authenticate github user and the repo if the token is authorized to access this repository
+then get contents of that repo
+then check in the contents about the dir as we only need dir to store the detections
+then update ui with the directory name
+
+then get description of the directory so we get the contents of it
+so we search in the contents of the directory for name equal to description
+then print it in the gui and github which his name is README.md
+
+Then we need to import a rule or a file from github
+
+so we get the url and app
+make the request
+check contents of directories 
+lw l item is file w ends with .zip fa download l url bta3ha w lw success
+and read the file contents and store the response 
